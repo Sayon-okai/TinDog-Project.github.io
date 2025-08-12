@@ -26,3 +26,13 @@
   height: 100px;
   border-radius: 50%;
 }
+
+#container {
+  justify-content: center;
+  padding: 5px 15% 0 15% ;
+  
+}
+
+#container #iphone-img {
+ margin-bottom: -3.5%;
+} 
