@@ -47,6 +47,25 @@
 }
 
 
-.text-body-emphasis {
-    margin: 15px 0 33px 0 ;
+
+#testimonial p {
+     margin: 15px 0 20px;
+     font-family: sans-serif;
+     font-size: 1em;
+}
+#testimonial .container {
+    justify-content: space-between;
+}
+
+#pricing {
+      padding: 2px 10% 2px 10%;
+}
+
+#footer {
+  height: 400px;
+}
+
+ .tindog {
+  color: #fff;
+  font-size: 2rem;
 }

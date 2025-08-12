@@ -59,8 +59,8 @@ Heart:
 "I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
 
 
-A Plan for Every Dog's Needs
-Simple and affordable price plans for you and your dog.
+
+
 
 Chihuahua
 $0/mo
