@@ -33,37 +33,20 @@
   
 }
 
-#container #iphone-img {
- margin-bottom: -3.3%;
-} 
-
-.features {
-  margin: 5% 10% 5% 10% ;
-
-}
-
-#testimonial {
-  height: 506px;
-}
-
-
-
 #testimonial p {
      margin: 15px 0 20px;
      font-family: sans-serif;
      font-size: 1em;
 }
-#testimonial .container {
-    justify-content: space-between;
+
+.profile-img {
+     width: 100px;
+     border-radius: 50%;
+     
 }
 
-#pricing {
-      padding: 2px 10% 2px 10%;
-}
 
-#footer {
-  height: 400px;
-}
+
 
  .tindog {
   color: #fff;
