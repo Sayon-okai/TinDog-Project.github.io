@@ -29,7 +29,7 @@
 
 #container {
   justify-content: center;
-  padding: 5px 10% 0 15% ;
+  padding: 10% 10% 0 15% ;
   
 }
 
@@ -37,9 +37,9 @@
  margin-bottom: -3.3%;
 } 
 
-@media (max-width: 1400px) {
+/* @media (max-width: 1400px) {
   #container #iphone-img {
     width: 200px;
       margin-bottom: -5.5%;
     }
-}
+} */
