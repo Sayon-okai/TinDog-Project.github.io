@@ -1,6 +1,14 @@
 # TinDog Project
+ - A website where dog lovers meet and more
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
+# Author 
+  - Sayon T. Okai
+  - # Email
+    - sayon.study@gmail.com
+
+
+
+# HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
 ## SVGs:
